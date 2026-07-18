@@ -1,0 +1,19 @@
+# Python
+**/venv/
+**/__pycache__/
+**/.env
+**/.env.local
+*.pyc
+
+# Node
+**/node_modules/
+**/dist/
+**/dist-ssr/
+frontend/*.local
+
+# Logs and system
+*.log
+.DS_Store
+.vscode/
+.idea/
+.gemini/
